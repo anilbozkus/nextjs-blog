@@ -8,7 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "date-fns": "^2.16.1",
+    "express": "^4.17.1",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "react": "17.0.1",
